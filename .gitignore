@@ -1,0 +1,7 @@
+examples/demo/logs/
+*.log
+*.log.*.gz
+.vscode/
+.DS_Store
+.claude/
+ARCHITECTURE.md
